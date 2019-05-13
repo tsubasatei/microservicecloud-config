@@ -12,7 +12,7 @@ spring:
             
 ---
 spring:
-    profiles: test  # 开发环境
+    profiles: test  # 测试环境
     application:
         name: microservicecloud-config-xt-test
             
